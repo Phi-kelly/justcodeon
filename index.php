@@ -7,8 +7,8 @@
     <title>Welcome</title>
 </head>
 <body>
-    <h1>home</h1>
-    <h4>Yes it's the home page</h4>
+    <h1>index</h1>
+    <h4>revision two</h4>
     <p>this is the home page</p>
 </body>
 </html>
